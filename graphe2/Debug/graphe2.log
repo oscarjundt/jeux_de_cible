@@ -1,0 +1,6 @@
+﻿  fonc.cpp
+C:\Users\oscar\source\repos\graphe2\fonc.cpp(50,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  main.cpp
+  objet.cpp
+  Génération de code en cours...
+  graphe2.vcxproj -> C:\Users\oscar\source\repos\graphe2\Debug\graphe2.exe
